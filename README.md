@@ -2,8 +2,6 @@
 
 Tic Tac Toe
 
-![image](https://github.com/user-attachments/assets/01a053ae-52f8-4152-9e7a-85a313f177d0)
-
 
 **About**
 
